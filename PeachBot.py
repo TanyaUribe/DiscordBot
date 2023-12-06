@@ -1,24 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Dec  5 15:31:59 2023
-
 @author: HP
 """
-
-#client ID 1181707525872156782
-#app ID 1181707525872156782
-#public key 350baef1f25de8b3edae8c6c2ea2a15f86138df71776290c4f602a8c5d926707
-#tkn MTE4MTcwNzUyNTg3MjE1Njc4Mg.G2BFV9.71C5vJwqRR6b2onrz3TTY8n3xmfVZAOODw0nlg
-#INTEGER 67648
-
-#https://discordapp.com/oauth2/authorize?client_id={CLIENTID}&scope=bot&permissions={PERMISSIONINT}
-
-#perm integer 335743040
-#https://discordapp.com/oauth2/authorize?client_id=1181707525872156782&scope=bot&permissions=335743040
-
-#https://discordapp.com/oauth2/authorize?client_id=1181707525872156782&scope=bot&permissions=67648
-
-
 import discord
 import random
 from discord.ext import commands
